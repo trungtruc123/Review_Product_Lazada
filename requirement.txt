@@ -1,0 +1,9 @@
+pandas
+nltk
+torch
+underthesea
+beautifulsoup4
+flask
+flask_cors
+selenium
+transformers
